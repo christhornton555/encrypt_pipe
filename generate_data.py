@@ -1,3 +1,5 @@
+# Generates a small csv of dummy data for testing purposes
+
 import csv
 import random
 from datetime import date, timedelta
